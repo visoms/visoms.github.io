@@ -1,0 +1,17 @@
+body {
+    font-size: 16pt;
+    font-family: sans-serif;
+    background-color: #CBCBCB
+}
+h1{
+  text-align: center;
+}
+a{
+  color: #FF0000
+}
+.xe{
+  filter: opacity(15%);
+}
+.ye{
+  color: #FF0000;
+}
