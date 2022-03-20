@@ -15,3 +15,8 @@ a{
 .ye{
   color: #FF0000;
 }
+.imgd{
+    float: right;
+    margin: 5px;
+    border-radius: 2pt
+}
