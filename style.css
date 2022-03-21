@@ -54,4 +54,4 @@ marquee{
 }
 /*support google chrome*/
 input::-webkit-input-placeholder{
-	color: red;
+	font-size: 10pt;
