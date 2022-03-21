@@ -20,3 +20,35 @@ img{
     margin: 5px;
     border-radius: 2pt
 }
+li{
+      font-size: 13pt
+    }
+    .wabutton{
+      width:49px;
+      height:48px;
+      position:fixed;
+      bottom:135px;
+      right:7px;
+      z-index:100;
+}
+.wa{
+      width:49px;
+      height:49px;
+      position:fixed;
+      bottom:189px;
+      right:7px;
+      z-index:100;
+      border-radius: 50px
+}
+.sh{
+  width:57px;
+      height:57px;
+      position:fixed;
+      bottom:75px;
+      right:1px;
+      z-index:100;
+      border-radius: 50px
+}
+marquee{
+  font-size: 10pt
+}
